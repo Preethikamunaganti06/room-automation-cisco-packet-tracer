@@ -1,5 +1,4 @@
 ## Smart Room Automation System  
-### Using Cisco Packet Tracer
 
 ## Project Overview
 This project implements a **Room Automation System** using Cisco Packet Tracer.  
