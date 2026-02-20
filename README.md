@@ -48,7 +48,7 @@ The system was tested by:
 
  ## 📂 Project Files
 - `project.pkt` → Cisco Packet Tracer file
-- `CPT 1.png` → Screenshot of network setup (recommended)
+- `CPT.png` → Screenshot of network setup (recommended)
 
 ## Learning Outcomes
 - Understanding IoT concepts in networking
