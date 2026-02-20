@@ -46,7 +46,7 @@ The system was tested by:
 - Verifying connectivity using ping
 - Monitoring device behavior in simulation mode
 
- ## 📂 Project Files
+ ## Project Files
 - `project.pkt` → Cisco Packet Tracer file
 - `CPT.png` → Screenshot of the network setup
 
