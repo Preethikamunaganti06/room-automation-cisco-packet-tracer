@@ -46,6 +46,10 @@ The system was tested by:
 - Verifying connectivity using ping
 - Monitoring device behavior in simulation mode
 
+ ## 📂 Project Files
+- `project.pkt` → Cisco Packet Tracer file
+- `CPT 1.png` → Screenshot of network setup (recommended)
+
 ## Learning Outcomes
 - Understanding IoT concepts in networking
 - Practical experience with Cisco Packet Tracer
